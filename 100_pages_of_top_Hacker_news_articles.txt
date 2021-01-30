@@ -1,0 +1,212 @@
+title: My Experience at Apple
+link: https://ex-apple-engineer.medium.com/my-experience-apple-5d8b6205cb56
+votes: 1575
+------------------------------
+title: TabFS: Mount your Browser Tabs as a Filesystem
+link: https://omar.website/tabfs/
+votes: 1387
+------------------------------
+title: A half-hour to learn Rust
+link: https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+votes: 1370
+------------------------------
+title: California law bans delivery apps from listing a restaurant without an agreement
+link: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2149
+votes: 1307
+------------------------------
+title: Happy New Year HN
+link: item?id=25595865
+votes: 981
+------------------------------
+title: Apple has threatened to remove Amphetamine from the App Store
+link: https://github.com/x74353/SaveAmphetamine
+votes: 941
+------------------------------
+title: Bitcoin is a disaster
+link: https://www.metzdowd.com/pipermail/cryptography/2020-December/036510.html
+votes: 870
+------------------------------
+title: EU Signs €145B Declaration to Develop Next Gen Processors and 2nm Technology
+link: https://www.eetimes.eu/eu-signs-e145bn-declaration-to-develop-next-gen-processors-and-2nm-technology/
+votes: 748
+------------------------------
+title: Show HN: I shot high-res stitched panoramas in Iceland using a thermal camera
+link: https://petapixel.com/2019/07/13/shooting-high-res-thermal-photos-of-iceland-to-show-nature-at-work/?q=5
+votes: 721
+------------------------------
+title: How to overcome Phone Addiction
+link: https://cognitiontoday.com/phone-addiction-coping-solutions-research-statistics/
+votes: 719
+------------------------------
+title: Open Source Smartwatch
+link: https://www.pine64.org/pinetime/
+votes: 680
+------------------------------
+title: SolarWinds hackers were able to access Microsoft source code
+link: https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/
+votes: 669
+------------------------------
+title: WSL2 corrupting Git repositories and shell history
+link: https://github.com/microsoft/WSL2-Linux-Kernel/issues/168
+votes: 597
+------------------------------
+title: US passes anti-corruption law that effectively bans anonymous shell companies
+link: https://www.independent.co.uk/news/world/americas/us-passes-historic-anti-corruption-legislation-that-effectively-bans-anonymous-shell-companies-b1781380.html
+votes: 545
+------------------------------
+title: Most of what you read on the internet is written by insane people (2018)
+link: https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/
+votes: 536
+------------------------------
+title: Horrifying PDF Experiments
+link: https://github.com/osnr/horrifying-pdf-experiments
+votes: 478
+------------------------------
+title: MF DOOM Has Died
+link: https://consequenceofsound.net/2020/12/mf-doom-dead-obituary/
+votes: 465
+------------------------------
+title: Atlassian Cloud ToS section 3.3(I) prohibits discussing performance issues
+link: https://www.atlassian.com/legal/cloud-terms-of-service
+votes: 405
+------------------------------
+title: WebAssembly Studio
+link: https://webassembly.studio
+votes: 390
+------------------------------
+title: Unanswered user makes question their MS thesis and answers self 2 years later
+link: https://stackoverflow.com/questions/47444189/immediate-mode-gui-performance
+votes: 379
+------------------------------
+title: Pixar's Render Farm
+link: https://twitter.com/pixprin/status/1345146328058269696
+votes: 373
+------------------------------
+title: Peer-reviewed papers are getting increasingly boring
+link: https://lemire.me/blog/2021/01/01/peer-reviewed-papers-are-getting-increasingly-boring/
+votes: 361
+------------------------------
+title: The Great Suspender: New maintainer is probably malicious
+link: https://github.com/greatsuspender/thegreatsuspender/issues/1263
+votes: 360
+------------------------------
+title: Facebook's advertising integrity chief leaves company
+link: https://www.reuters.com/article/us-facebook-executive-idUSKBN2962M6
+votes: 357
+------------------------------
+title: State machines are wonderful tools
+link: https://nullprogram.com/blog/2020/12/31/
+votes: 338
+------------------------------
+title: The Yale Manual for Psilocybin-Assisted Therapy of Depression
+link: https://psyarxiv.com/u6v9y
+votes: 327
+------------------------------
+title: Artichoke is a Ruby made with Rust that compiles to WebAssembly
+link: https://github.com/artichoke/artichoke
+votes: 322
+------------------------------
+title: How to Stop Endless Discussions
+link: https://candost.blog/how-to-stop-endless-discussions/
+votes: 318
+------------------------------
+title: Probabilistic Machine Learning: An Introduction
+link: https://probml.github.io/pml-book/book1.html
+votes: 307
+------------------------------
+title: DOJ Argues: US can kill own citizens without review when state secrets involved
+link: https://www.abajournal.com/news/article/doj-lawyer-argues-us-can-kill-its-own-citizens-without-review-when-state-secrets-are-involved
+votes: 304
+------------------------------
+title: Ask HN: Successful one-person online businesses in 2021?
+link: item?id=25614966
+votes: 298
+------------------------------
+title: Philly scientist behind COVID vaccine tech was demoted by UPenn
+link: https://billypenn.com/2020/12/29/university-pennsylvania-covid-vaccine-mrna-kariko-demoted-biontech-pfizer/
+votes: 288
+------------------------------
+title: Apple reverses stance on Amphetamine App
+link: https://www.engadget.com/apple-will-not-ban-mac-app-amphetamine-from-store-224919743.html
+votes: 283
+------------------------------
+title: CVE Stuffing
+link: https://jerrygamblin.com/2020/12/17/cve-stuffing/
+votes: 283
+------------------------------
+title: Getting Started in Robotics
+link: https://allshire.org/getting-started-robotics/
+votes: 272
+------------------------------
+title: Indian Government proposes to buy bulk subscriptions of all scientific journals
+link: https://indianexpress.com/article/india/pune/one-nation-one-subscription-govt-draft-policy-7128799/
+votes: 271
+------------------------------
+title: Zig in 30 Minutes
+link: https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50
+votes: 270
+------------------------------
+title: The Great Software Stagnation
+link: https://alarmingdevelopment.org/?p=1475
+votes: 268
+------------------------------
+title: Fired App Reviewer Sues Apple
+link: https://reason.com/volokh/2020/12/08/political-discrimination-lawsuit-against-apple-can-go-forward/
+votes: 264
+------------------------------
+title: Desalination Breakthrough Could Lead to Cheaper Water Filtration
+link: https://news.utexas.edu/2020/12/31/desalination-breakthrough-could-lead-to-cheaper-water-filtration/
+votes: 259
+------------------------------
+title: Ask HN: Predictions for 2021?
+link: item?id=25594068
+votes: 258
+------------------------------
+title: Openstreetmap’s product fails to compete with Google Maps
+link: https://bedogged.substack.com/p/the-mobile-map-app-part-i-the-void
+votes: 257
+------------------------------
+title: AMD Patent Reveals Hybrid CPU-FPGA Design That Could Be Enabled by Xilinx Tech
+link: https://hothardware.com/news/amd-patent-hybrid-cpu-fpga-design-xilinx
+votes: 252
+------------------------------
+title: Crossing 2000 Miles of Siberia to Reach One of the Most Isolated Cities on Earth
+link: https://www.thedrive.com/news/38035/russian-off-roaders-crossed-2000-miles-of-siberia-to-reach-one-of-the-most-isolated-cities-on-earth
+votes: 244
+------------------------------
+title: Rust 1.49.0
+link: https://blog.rust-lang.org/2020/12/31/Rust-1.49.0.html
+votes: 241
+------------------------------
+title: The Eerie Beauty of the Apple Watch Solar Face, and the Anatomy of Nightfall
+link: https://www.hodinkee.com/articles/the-eerie-beauty-of-the-apple-watch-solar-face-and-the-anatomy-of-nightfall
+votes: 236
+------------------------------
+title: Lets talk about changelogs (how I loathe 'bugfixes and performance improvements)
+link: https://raymii.org/s/blog/Rant_Lets_talk_about_changelogs.html
+votes: 236
+------------------------------
+title: Zynga shuts down FarmVille after 11 years
+link: https://twitter.com/markpinc/status/1344742333443493889
+votes: 235
+------------------------------
+title: The Design of the Roland Juno Syntheziser's Oscillators
+link: https://blog.thea.codes/the-design-of-the-juno-dco/
+votes: 235
+------------------------------
+title: Apple Backtracks After Popular Mac App 'Amphetamine' Threatened with Removal
+link: https://www.macrumors.com/2021/01/02/amphetamine-app-store-removal-threat/
+votes: 234
+------------------------------
+title: How Graphviz thinks the USA is laid out
+link: https://shitpost.plover.com/g/graphviz-usa.html
+votes: 231
+------------------------------
+title: How to open a file in Emacs: a story about Lisp, technology, and human progress
+link: https://www.murilopereira.com/how-to-open-a-file-in-emacs/
+votes: 227
+------------------------------
+title: Rust Design Patterns as a Book
+link: https://rust-unofficial.github.io/patterns/
+votes: 227
+------------------------------
