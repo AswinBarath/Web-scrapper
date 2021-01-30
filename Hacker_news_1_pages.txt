@@ -1,0 +1,76 @@
+title: Uber discovered they’d been defrauded out of 2/3 of their ad spend
+link: https://twitter.com/nandoodles/status/1345774768746852353
+votes: 1576
+------------------------------
+title: ECC matters
+link: https://www.realworldtech.com/forum/?threadid=198497&curpostid=198647
+votes: 936
+------------------------------
+title: Rust is now overall faster than C in benchmarks
+link: https://benchmarksgame-team.pages.debian.net/benchmarksgame/which-programs-are-fastest.html
+votes: 624
+------------------------------
+title: I logged my activities at 15-minute intervals for the whole year
+link: https://samplesize.one/blog/posts/my_year_in_data/
+votes: 613
+------------------------------
+title: URL shorteners set ad tracking cookies
+link: https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies
+votes: 432
+------------------------------
+title: Google workers announce plans to unionize
+link: https://www.theverge.com/2021/1/4/22212347/google-employees-contractors-announce-union-cwa-alphabet
+votes: 375
+------------------------------
+title: USA vs. Julian Assange Judgment
+link: https://www.judiciary.uk/judgments/usa-v-julian-assange/
+votes: 318
+------------------------------
+title: On Repl-Driven Programming
+link: http://mikelevins.github.io/posts/2020-12-18-repl-driven/
+votes: 274
+------------------------------
+title: Show HN: Lightspeed – subsecond, open source, self hosted stream from OBS
+link: https://github.com/GRVYDEV/Project-Lightspeed
+votes: 266
+------------------------------
+title: 20 months, 2K hours, 200K € lost. A story about resilience and sunk cost fallacy
+link: https://dsebastien.medium.com/20-months-in-2k-hours-spent-and-200k-lost-a-story-about-resilience-and-the-sunk-cost-fallacy-69fd4f61ef59
+votes: 244
+------------------------------
+title: Reviving Old X Code
+link: https://keithp.com/blogs/kgames/
+votes: 226
+------------------------------
+title: The Toyota Production System
+link: https://blog.toyota.co.uk/toyota-production-system-glossary
+votes: 199
+------------------------------
+title: Graphtoy
+link: https://graphtoy.com/?f1(x,t)=sqrt(64-x*x)&v1=true&f2(x,t)=-f1(x,t)&v2=true&f3(x,t)=7/2-sqrt(9-(abs(x)-3.5)*(abs(x)-3.5))&v3=true&f4(x,t)=7/2+sqrt(9-(abs(x)-3.5)*(abs(x)-3.5))/2&v4=true&f5(x,t)=3+sqrt(1-(abs(x+sin(4*t)/2)-3)*(abs(x+sin(4*t)/2)-3))*2/3&v5=true&f6(x,t)=-3-sqrt(25-x*x)*(1/4+pow(0.5+0.5*sin(2*PI*t),6)/10)&v6=true
+votes: 187
+------------------------------
+title: Look Up Unknown Phone Numbers Using Facebook Reset Password
+link: https://bytexd.com/look-up-unknown-phone-numbers/
+votes: 187
+------------------------------
+title: We’re Google Workers, and We Are Forming a Union
+link: https://www.nytimes.com/2021/01/04/opinion/google-union.html
+votes: 165
+------------------------------
+title: Show HN: Pluto – macOS system monitor app
+link: https://apps.apple.com/us/app/pluto-hud/id1544577573?mt=12
+votes: 149
+------------------------------
+title: Julian Assange extradition to US blocked by UK court
+link: https://www.bbc.com/news/uk-55528241
+votes: 131
+------------------------------
+title: Britney Spears' Guide to Semiconductor Physics (2007)
+link: http://britneyspears.ac/lasers.htm
+votes: 126
+------------------------------
+title: MIT 6.172: Performance Engineering of Software Systems
+link: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/
+votes: 120
+------------------------------

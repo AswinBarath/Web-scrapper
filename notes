@@ -1,0 +1,20 @@
+Web Scraping : Grabbing data from the web using HTMl files
+
+Not all websites allow data scraping, so check that using:
+                    [url]/robots.txt
+Example:       udemy.com/robots.txt
+
+There are both ethical and unethical way of web scraping
+Ideally websites can have API, so use it before using this library
+Chrome has web scrapper plug-ins to use
+
+Beautiful Soup is the best library to use for web scraping
+
+Ideally save the result of the project as file or html file
+Also add the try except block for a delay of 30 milliseconds
+
+There's another popular framework called scrapy with extra features
+
+Tips:
+Use Scrapy in future
+Collect and store in a database
